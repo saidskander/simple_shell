@@ -11,9 +11,14 @@
 #include <stddef.h>
 #include <sys/stat.h>
 #include <signal.h>
+#include <string.h>
 
 int _putchar(char c);
+
 void _puts(char *str);
 
+char **cutline(char *line, const char *rep);
+
+extern char **environ;
 
 #endif
