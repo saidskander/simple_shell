@@ -41,18 +41,18 @@ AUTHORS  cutline.c  hsh  man_1_simple_shell  MS.h  _putchar.c  _puts.c  README.m
 ```sh
 $ ls -la
 total 28
-drwxrwxrwx 1 charogan charogan 4096 Apr 15 19:51 .
-drwxrwxrwx 1 charogan charogan 4096 Apr 15 17:38 ..
--rw-rw-rw- 1 charogan charogan  133 Apr 15 17:26 AUTHORS
--rw-rw-rw- 1 charogan charogan  405 Apr 15 18:27 cutline.c
-drwxrwxrwx 1 charogan charogan 4096 Apr 15 19:43 .git
--rwxrwxrwx 1 charogan charogan 9384 Apr 15 19:51 hsh
--rw-rw-rw- 1 charogan charogan 1113 Apr 15 15:05 man_1_simple_shell
--rw-rw-rw- 1 charogan charogan  417 Apr  9 12:44 MS.h
--rw-rw-rw- 1 charogan charogan  247 Apr  7 00:39 _putchar.c
--rw-rw-rw- 1 charogan charogan  181 Apr  7 00:47 _puts.c
--rw-rw-rw- 1 charogan charogan 2584 Apr 15 19:43 README.md
--rw-rw-rw- 1 charogan charogan  526 Apr 15 19:21 shell.c
+drwxrwxrwx 1 AUTHORS 4096 Apr 15 19:51 .
+drwxrwxrwx 1 AUTHORS 4096 Apr 15 17:38 ..
+-rw-rw-rw- 1 AUTHORS  133 Apr 15 17:26 AUTHORS
+-rw-rw-rw- 1 AUTHORS  405 Apr 15 18:27 cutline.c
+drwxrwxrwx 1 AUTHORS 4096 Apr 15 19:43 .git
+-rwxrwxrwx 1 AUTHORS 9384 Apr 15 19:51 hsh
+-rw-rw-rw- 1 AUTHORS 1113 Apr 15 15:05 man_1_simple_shell
+-rw-rw-rw- 1 AUTHORS  417 Apr  9 12:44 MS.h
+-rw-rw-rw- 1 AUTHORS  247 Apr  7 00:39 _putchar.c
+-rw-rw-rw- 1 AUTHORS  181 Apr  7 00:47 _puts.c
+-rw-rw-rw- 1 AUTHORS 2584 Apr 15 19:43 README.md
+-rw-rw-rw- 1 AUTHORS  526 Apr 15 19:21 shell.c
 ```
 
 ## List of functions and system calls
