@@ -10,7 +10,8 @@ char **cutline(char *line, const char *rep)
 char *word;
 int i = 0;
 char **ar;
-ar = malloc(sizeof(char*) * 1024);
+/*array*/
+ar = malloc(sizeof(char *) * 1024);
 for (; i < 1024; i++)
 ar[i] = NULL;
 word = strtok(line, rep);

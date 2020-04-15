@@ -6,8 +6,8 @@
  */
 int main(void)
 {
-int w, d, i = 0;
-char **cline;
+int w, d;
+char  **cline;
 ssize_t x = 0;
 char *line = NULL;
 size_t n = 0;

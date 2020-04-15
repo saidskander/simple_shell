@@ -21,4 +21,6 @@ char **cutline(char *line, const char *rep);
 
 extern char **environ;
 
+int lsh_cd(char **args);
+
 #endif

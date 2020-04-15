@@ -1,0 +1,57 @@
+.B.\"Man_page for simple shell
+.\"Created by Said Skander Amireche and Mohamed Chaaben
+
+.TH man 1 "8 April 2020" "1.0" "simple_shell_man_page"
+
+.SH NAME
+.B simple_shell for UNIX command interpreter
+- Simple shell made in c language.
+.B int hsh(void)
+
+.SH DESCRIPTION
+.B hsh
+.A Unix shell is  basic imitation of a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems.
+The shell is both an interactive command language and a scripting language,
+and is used by the operating system to control the execution of the system using shell scripts.
+
+.SH USER
+.SS
+.B 1/ Input array of words 
+.SS
+.B 2/ choose command
+.SS
+.B 3/ Executes the command
+.SS
+.B 4/ (Ctrl^d) to end the processes (Ctrl^c)to kill the processes
+.SS
+.SH SYNOPSIS
+.SS
+.B hsh
+.SS
+.SH USER (hsh) EAMPLE
+.SS
+.B > /bin/ls
+.SS
+.B > /bin/ls -l
+.SS
+.B > ls
+.SS
+.B > ls -l
+.SS
+.B > cd
+.SS
+.B > pwd
+.SS
+> exit 
+
+
+.SH RETURN VALUE
+
+The shell returns the error code by the command exit or ctrl-d
+
+.SH SYNTAX
+
+> <command> <flags or options> <argument 1> ...
+
+.SH AUTHORS
+Said Skander Amireche, Mohamed Chaaben
