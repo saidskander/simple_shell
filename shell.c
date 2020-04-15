@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-int w, d,k;
+int w, d;
 char  **cline;
 ssize_t x = 0;
 char *line = NULL;
