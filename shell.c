@@ -32,7 +32,7 @@ if (d == 0)
 execve(cline[0], cline, environ);
 exit(0);
 }
-wait(&w);
+wait(&d);
 free(line);
 free(cline);
 line = NULL;
