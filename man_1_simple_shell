@@ -16,7 +16,7 @@ and is used by the operating system to control the execution of the system using
 
 .SH USER
 .SS
-.B 1/ Input array of words 
+.B 1/ Input array of words
 .SS
 .B 2/ choose command
 .SS
@@ -42,7 +42,7 @@ and is used by the operating system to control the execution of the system using
 .SS
 .B > pwd
 .SS
-> exit 
+> exit
 
 
 .SH RETURN VALUE

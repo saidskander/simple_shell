@@ -1,6 +1,6 @@
 #include "MS.h"
 /**
- * cutline : catline
+ * **cutline : cutline
  * @line : line
  * @rep : rep
  * Return: array of words
@@ -22,5 +22,5 @@ for (; word; i++)
 word = strtok(NULL, rep);
 ar[i] = word;
 }
-return(ar);
+return (ar);
 }
