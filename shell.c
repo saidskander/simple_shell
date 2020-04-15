@@ -39,4 +39,3 @@ line = NULL;
 }
 return(0);
 }
-}
