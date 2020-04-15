@@ -29,7 +29,7 @@ Shell uses a number of open source projects to work properly:
 * [commands] - use input commands
 * And of course simple-shell itself is a [public repository] on GitHub.
 
-### List of functions and system calls
+## List of functions and system calls
 ```sh
 > access (man 2 access)
 > chdir (man 2 chdir)
