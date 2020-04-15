@@ -8,7 +8,7 @@ In the computer science world, however, a shell is a software program that inter
 
 # Great !
 
-                                     shell Types:
+                                                    shell Types
   - Bourne shell ( sh)
   - Korn shell ( ksh)
   - Bourne Again shell ( bash)
