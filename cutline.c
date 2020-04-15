@@ -19,6 +19,7 @@ ar[0] = word;
 i = 1;
 for (; word; i++)
 {
+word
 word = strtok(NULL, rep);
 ar[i] = word;
 }
