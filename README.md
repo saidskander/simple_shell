@@ -99,7 +99,6 @@ git clone git@github.com:saidskander/simple_shell.git
 
 ### files
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
