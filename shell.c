@@ -37,5 +37,6 @@ free(line);
 free(cline);
 line = NULL;
 }
+return
 return(0);
 }
