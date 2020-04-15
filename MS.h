@@ -15,8 +15,6 @@
 
 int _putchar(char c);
 
-void _execve();
-
 void _puts(char *str);
 
 char **cutline(char *line, const char *rep);
