@@ -1,10 +1,10 @@
 #include "MS.h"
 /**
- * cutline - cutline
+ * **cutline - print on the next line
  * @line : line
  * @rep : rep
- * Return - array of words
-*/
+ * Return: array of words.
+ */
 char **cutline(char *line, const char *rep)
 {
 char *word;
