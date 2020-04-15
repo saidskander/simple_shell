@@ -13,6 +13,7 @@ char **ar;
 /*array*/
 ar = malloc(sizeof(char *) * 1024);
 for (; i < 1024; i++)
+i = 4;
 ar[i] = NULL;
 word = strtok(line, rep);
 ar[0] = word;
