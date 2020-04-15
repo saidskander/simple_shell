@@ -18,13 +18,13 @@ _puts("$ ");
 x = getline(&line, &n, stdin);
 cline = cutline(line, " \n");
 /*
-for (i = 0; cline[i]; i++)
-{
-_puts("word number ");
-_puts("\n");
-_puts(cline[i]);
-_puts("\n");
-}
+* for (i = 0; cline[i]; i++)
+* {
+* _puts("word number ");
+* _puts("\n");
+* _puts(cline[i]);
+* _puts("\n");
+* }
 */
 d = fork();
 if (d == 0)
