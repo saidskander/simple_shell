@@ -25,6 +25,7 @@ cline = cutline(line, " \n");
 * _puts(cline[i]);
 * _puts("\n");
 * }
+*/
 d = fork();
 if (d == 0)
 {
