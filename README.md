@@ -2,7 +2,7 @@
 
 In the computer science world, however, a shell is a software program that interprets commands from the user so that the operating system can understand them and perform the appropriate functions. The shell is a command-line interface, which means it is soley text-based.
 
-  - Type <command> | <option> ... 
+  - Type command | option ...
   - comfortable to use
   - text-based
 
