@@ -13,6 +13,10 @@
 #include <signal.h>
 #include <string.h>
 
+int _strcmp(char *s1, char *s2);
+
+void sighand(int sg);
+
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 
 char *_getline();
