@@ -42,8 +42,3 @@ line = NULL;
 }
 return (0);
 }
-void sighand(int sg)
-{
-if (sg == SIGINT)
-_puts("\n$ ");
-}
